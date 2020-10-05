@@ -2,7 +2,7 @@
 
 Open 2.0
 ## Scopo
-La manualistica contenuta è puramente tecnica e per tanto **deve essere letta ed eseguita da personale esperto** onde evitare danni alla macchina che deve ospitare il software
+ La manualistica contenuta è puramente tecnica e per tanto **deve essere letta ed eseguita da personale esperto** onde evitare danni alla macchina che deve ospitare il software
 
 - Si tenga conto della necessità per alcune operazioni di avere **accesso a internet** con la macchina su cui si procederà all’installazione
 - Alcuni comandi richiedono l’accesso di SuperUser, si consiglia caldamente l’uso dell’utente root o di pari privilegi per eseguire questa installazione
